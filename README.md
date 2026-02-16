@@ -1,4 +1,4 @@
-# � HoloQuant
+# HoloQuant
 
 **Real-time Trading Dashboard** with Advanced Technical Analysis
 
@@ -11,18 +11,18 @@ A modern full-stack trading analytics platform featuring live market data, techn
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔴 **Real-time Market Data** - Live pricing from 60+ assets across stocks, crypto, and forex
-- 📈 **Technical Analysis** - 10+ indicators (RSI, MACD, Stochastic, Williams %R, ADX, CCI, etc.)
-- 🎯 **Consensus Scoring** - AI-powered signal aggregation from multiple models
-- 🔍 **Smart Search & Filter** - Find assets instantly with intelligent search
-- 📱 **Responsive Design** - Beautiful UI built with shadcn/ui & Tailwind CSS
-- ⚡ **High Performance** - Optimized with pagination and real-time updates
+-  **Real-time Market Data** - Live pricing from 60+ assets across stocks, crypto, and forex
+-  **Technical Analysis** - 10+ indicators (RSI, MACD, Stochastic, Williams %R, ADX, CCI, etc.)
+-  **Consensus Scoring** - AI-powered signal aggregation from multiple models
+-  **Smart Search & Filter** - Find assets instantly with intelligent search
+-  **Responsive Design** - Beautiful UI built with shadcn/ui & Tailwind CSS
+-  **High Performance** - Optimized with pagination and real-time updates
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 20+
@@ -49,7 +49,7 @@ npm run dev
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Recharts  
 **Backend:** FastAPI, Python 3.13, Pandas, NumPy  
@@ -57,7 +57,7 @@ npm run dev
 
 ---
 
-## 📊 API Endpoints
+##  API Endpoints
 
 ```
 GET /api/assets/{category}     # Stocks, Crypto, Forex assets
@@ -67,16 +67,16 @@ GET /api/news/{symbol}         # Market intelligence
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **athens-21** - [GitHub](https://github.com/athens-21)
 
 ---
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
-Built with ❤️ using [tvscreener](https://github.com/deepentropy/tvscreener) and [shadcn/ui](https://ui.shadcn.com)
+Built with using [tvscreener](https://github.com/deepentropy/tvscreener) and [shadcn/ui](https://ui.shadcn.com)
 
 ---
 
-**⭐ Star this repo if you find it useful!**
+** Star this repo if you find it useful!**
